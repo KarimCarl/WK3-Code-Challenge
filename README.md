@@ -36,6 +36,5 @@ Copyright (c) 2022 **Charles Ndung'u**
 
 
 ## Resources
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://www.w3schools.com/js/
